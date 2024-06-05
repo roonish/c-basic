@@ -1,0 +1,14 @@
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\bin\Debug\net8.0\Question_1.exe
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\bin\Debug\net8.0\Question_1.deps.json
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\bin\Debug\net8.0\Question_1.runtimeconfig.json
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\bin\Debug\net8.0\Question_1.dll
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\bin\Debug\net8.0\Question_1.pdb
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.AssemblyInfoInputs.cache
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.AssemblyInfo.cs
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.csproj.CoreCompileInputs.cache
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.dll
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\refint\Question_1.dll
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.pdb
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\Question_1.genruntimeconfig.cache
+C:\Users\ronis\source\repos\RonishShivakoti\Question_1\obj\Debug\net8.0\ref\Question_1.dll
