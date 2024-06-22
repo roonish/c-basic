@@ -1,0 +1,84 @@
+﻿Question 1:
+Research the following keywords and provide your answers.
+
+* Automatic Garbage Collection
+
+Garbage collection is a memory management technique used in the .NET Framework and many other programming languages. 
+In C#, the garbage collector is responsible for managing memory and automatically freeing up memory that is 
+no longer being used by the application. Garbage Collection is automatic in C# as the .NET runtime 
+handles memory management and garbage collection without requiring explicit intervention from the programmer. 
+
+* Conditional Compilation
+
+Conditional Compilation is one of the approaches to control the behaviour of the code based on 
+certain conditions.It allows developers to include or exclude parts of the code based on certain conditions,
+typically defined by preprocessor directives.
+
+Example:
+
+#if WINDOWS
+Console.WriteLine("Running on Windows");
+#elif LINUX
+Console.WriteLine("Running on Linux");
+#endif
+
+Above code compiles different code depending on the platform (Windows, Linux, etc.).
+
+* Simple Multithreading
+
+One of the essential features of C# is its support for multithreading, which enables 
+developers to write applications that can perform multiple tasks concurrently. Multithreading in C#
+allows us developers to run multiple threads concurrently, enabling more efficient use of CPU resources
+and improved application performance.
+The Thread class from the System.Threading namespace is the most basic way to create and manage threads.
+
+
+Example (Taken from :https://www.geeksforgeeks.org/c-sharp-multithreading/)
+
+
+using System;
+using System.Threading;
+
+
+class Program
+{
+        static void Main()
+        {
+                // create a new thread
+                Thread t = new Thread(Worker);
+
+
+                // start the thread
+                t.Start();
+
+
+                // do some other work in the main thread
+                for (int i = 0; i < 10; i++)
+                {
+                        Console.WriteLine("Main thread doing some work");
+                        Thread.Sleep(100);
+                }
+
+
+                // wait for the worker thread to complete
+                t.Join();
+
+
+                Console.WriteLine("Done");
+        }
+
+
+        static void Worker()
+        {
+                for (int i = 0; i < 10; i++)
+                {
+                        Console.WriteLine("Worker thread doing some work");
+                        Thread.Sleep(100);
+                }
+        }
+}
+
+
+In the above code, the Worker method is executed in a separate thread while
+the main thread is doing some other work. The Thread.Sleep method is used to simulate some 
+work being done in both threads.

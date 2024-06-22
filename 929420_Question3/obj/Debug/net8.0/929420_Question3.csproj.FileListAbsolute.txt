@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\bin\Debug\net8.0\929420_Question3.exe
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\bin\Debug\net8.0\929420_Question3.deps.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\bin\Debug\net8.0\929420_Question3.runtimeconfig.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\bin\Debug\net8.0\929420_Question3.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\bin\Debug\net8.0\929420_Question3.pdb
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.AssemblyInfo.cs
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.sourcelink.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\refint\929420_Question3.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.pdb
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\929420_Question3.genruntimeconfig.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question3\obj\Debug\net8.0\ref\929420_Question3.dll
