@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.AssemblyInfo.cs
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.sourcelink.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\bin\Debug\net8.0\929420_Question2.exe
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\bin\Debug\net8.0\929420_Question2.deps.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\bin\Debug\net8.0\929420_Question2.runtimeconfig.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\bin\Debug\net8.0\929420_Question2.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\bin\Debug\net8.0\929420_Question2.pdb
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\refint\929420_Question2.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.pdb
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\929420_Question2.genruntimeconfig.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\929420_Question2\obj\Debug\net8.0\ref\929420_Question2.dll
