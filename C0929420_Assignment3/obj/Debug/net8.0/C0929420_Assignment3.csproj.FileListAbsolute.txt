@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\bin\Debug\net8.0\C0929420_Assignment3.exe
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\bin\Debug\net8.0\C0929420_Assignment3.deps.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\bin\Debug\net8.0\C0929420_Assignment3.runtimeconfig.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\bin\Debug\net8.0\C0929420_Assignment3.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\bin\Debug\net8.0\C0929420_Assignment3.pdb
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.AssemblyInfo.cs
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.sourcelink.json
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\refint\C0929420_Assignment3.dll
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.pdb
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\C0929420_Assignment3.genruntimeconfig.cache
+C:\Users\ronis\OneDrive\Desktop\RonishShivakoti\C0929420_Assignment3\obj\Debug\net8.0\ref\C0929420_Assignment3.dll
